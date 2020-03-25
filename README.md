@@ -5,5 +5,5 @@ This repository contains source code of the feature based approach for Fake news
 ## Files Description
 * The `final_feature_based_FN.ipynb` notebook contains detailed feature based implementation. 
 * The `base_model.ipynb` contains CNN and Bidirectional LSTM implementations.
-* The `Qatar_data` folder contains the provided training and validation data.
+* The `Qatar_data_articles.rar` folder contains the provided training and validation data.
 
